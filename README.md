@@ -15,8 +15,6 @@ Se você é um aluno do curso, este repositório pode ser um recurso valioso par
 
 Projeto 1: criando um sistema bancário com python
 
-Projeto 2: otimizando o sistema bancário com funções python
-
 🤝 Contribuindo
 
 Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
