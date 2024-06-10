@@ -23,7 +23,7 @@ Se você gostaria de contribuir com soluções para os projetos ou desafios, sin
 
 📧 Contato
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com SQL, sinta-se à vontade para entrar em contato.
+Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com Python, sinta-se à vontade para entrar em contato.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
 
