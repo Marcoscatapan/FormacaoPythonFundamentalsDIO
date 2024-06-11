@@ -50,13 +50,13 @@ while True:
             extrato += f"Saque R$ {valor:.2f}\n"
             número_saques += 1
     
-        delse:
+        else:
             print("Refaçã a operação")
 
 
     elif opção == "e":
         print("\n########## Extrato ##########")
-        print("não foram realizadas nenhuma transação." if not extrato else extrato")
+        print("não foram realizadas nenhuma transação." if not extrato else extrato)
         print(f"\nsaldo: R${saldo:.2f}")
         print("##############################")
 
