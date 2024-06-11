@@ -1,14 +1,12 @@
-# Otimizando o Sistema Bancário com Funções Python
-
-🏦 Projeto Otimizando o Sistema Bancário com Funções Python 🏦
+# 🏦 Otimizando o Sistema Bancário com Funções Python 
 
 Este projeto é uma expansão do sistema bancário básico, adicionando funcionalidades avançadas para melhorar a experiência do usuário e a eficiência do sistema, utilizando funções em Python.
 
-Objetivo 🎯
+🎯 Objetivo 
 
 O objetivo deste projeto é otimizar o sistema bancário básico, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário, implementando essas funcionalidades através de funções em Python.
 
-Funcionalidades 🛠️
+🛠️ Funcionalidades 
 
 - Depósito: Permite ao cliente do banco depositar fundos em sua conta.
  
@@ -22,7 +20,7 @@ Funcionalidades 🛠️
 
 - Novo Usuário: Gera um novo usuário com informações básicas.
 
-Como Executar 📝
+📝 Como Executar 
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 
@@ -32,7 +30,7 @@ Como Executar 📝
 
 4. Execute o arquivo principal otimizando o sistema bancario com funções python.py em seu terminal ou IDE Python.
 
-Como Contribuir 🤝
+🤝 Como Contribuir 
 
 Se deseja contribuir para este projeto, siga estas etapas:
 
