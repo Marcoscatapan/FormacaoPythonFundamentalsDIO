@@ -2,16 +2,16 @@
 
 🏦 Projeto Otimizando o Sistema Bancário com Funções Python 🏦
 
-Este projeto é uma expansão do sistema bancário básico, adicionando funcionalidades avançadas para melhorar a experiência do usuário e a eficiência do sistema.
+Este projeto é uma expansão do sistema bancário básico, adicionando funcionalidades avançadas para melhorar a experiência do usuário e a eficiência do sistema, utilizando funções em Python.
 
 Objetivo 🎯
 
-O objetivo deste projeto é otimizar o sistema bancário básico, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário.
+O objetivo deste projeto é otimizar o sistema bancário básico, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário, implementando essas funcionalidades através de funções em Python.
 
 Funcionalidades 🛠️
 
 - Depósito: Permite ao cliente do banco depositar fundos em sua conta.
-
+ 
 - Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível.
 
 - Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
@@ -30,25 +30,24 @@ Como Executar 📝
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal otimizando_sistema_bancario.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal otimizando o sistema bancario com funções python.py em seu terminal ou IDE Python.
 
 Como Contribuir 🤝
 
-1. Se deseja contribuir para este projeto, siga estas etapas:
+Se deseja contribuir para este projeto, siga estas etapas:
 
-2. Faça um fork do repositório.
+1. Faça um fork do repositório.
 
-3. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+2. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
 
-4. Implemente suas melhorias e novas funcionalidades.
+3. Implemente suas melhorias e novas funcionalidades utilizando funções em Python.
 
-5. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+4. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
 
-6. Push para a branch (git push origin feature/nova-feature).
+5. Push para a branch (git push origin feature/nova-feature).
 
-7. Crie um novo Pull Request.
-
+6. Crie um novo Pull Request.
 
 📋 README do Projeto
 
-Este README fornece uma visão geral do projeto de otimização de um sistema bancário em Python, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
+Este README fornece uma visão geral do projeto de otimização de um sistema bancário em Python, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário, todas implementadas utilizando funções em Python. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
