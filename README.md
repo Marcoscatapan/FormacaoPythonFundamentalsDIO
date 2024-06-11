@@ -1,6 +1,6 @@
 # Criando um Sistema Bancário com Python
 
-🏦 Projeto Criando um Sistema Bancário em Python 
+🏦 Projeto Criando um Sistema Bancário em Python 🏦
 
 Este projeto é uma oportunidade emocionante para aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
 
