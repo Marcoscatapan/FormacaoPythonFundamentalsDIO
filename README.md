@@ -1,22 +1,23 @@
 # 🎓FORMAÇÃO PYTHON DEVELOPER DIO 
 
-
 Bem-vindo ao repositório da Formação Python Developer!
 
-Este repositório é destinado aos projetos do curso Formação Python Developer da Dio, armazenando todos os desafios de projetos propostos pelo curso.
+Este repositório destina-se aos projetos do curso Formação Python Developer da DIO, armazenando todos os desafios de projetos propostos pelo curso.
 
 📂 Como navegar neste repositório
 
 Cada projeto ou desafio está organizado em seu próprio diretório.
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como códigos em Python, documentos de especificação e qualquer outra informação relevante.
+
+Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts Python, documentos de especificação e qualquer outra informação relevante.
+
 Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
 Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
 
 🛠️ Projetos disponíveis
 
-Projeto 1: criando um sistema bancário com python
+Projeto 1: Criando um sistema bancário com python.
 
-Projeto 2: otimizando o sistema bancário com funções python
+Projeto 2: Otimizando o sistema bancário com funções python.
 
 🤝 Contribuindo
 
