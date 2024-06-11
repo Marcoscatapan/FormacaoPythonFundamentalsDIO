@@ -1,14 +1,12 @@
-# Criando um Sistema Bancário com Python
-
-🏦 Projeto Criando um Sistema Bancário com Python 🏦
+# 🏦 Criando um Sistema Bancário com Python 
 
 Este projeto consiste na criação de um sistema bancário básico utilizando Python para realizar operações como depósito, saque e extrato.
 
-Objetivo 🎯
+🎯 Objetivo 
 
 O objetivo deste projeto é implementar um sistema bancário funcional em Python, onde os clientes possam realizar operações básicas em suas contas.
 
-Funcionalidades 🛠️
+🛠️ Funcionalidades 
 
 - Depósito: Permite ao cliente do banco depositar fundos em sua conta.
 
@@ -16,7 +14,7 @@ Funcionalidades 🛠️
 
 - Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
 
-Como Executar 📝
+📝 Como Executar 
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 
@@ -26,7 +24,7 @@ Como Executar 📝
 
 4. Execute o arquivo principal criando um sistema bancário com python.py em seu terminal ou IDE Python.
 
-Como Contribuir 🤝
+🤝 Como Contribuir 
 
 Se deseja contribuir para este projeto, siga estas etapas:
 
