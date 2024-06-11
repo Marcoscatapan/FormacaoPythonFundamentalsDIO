@@ -46,7 +46,8 @@ Como Contribuir 🤝
 
 6. Push para a branch (git push origin feature/nova-feature).
 
-7.Crie um novo Pull Request.
+7. Crie um novo Pull Request.
+
 
 📋 README do Projeto
 
