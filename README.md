@@ -4,19 +4,19 @@
 
 Este projeto é uma oportunidade emocionante para aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias.
 
-- Objetivo:
+Objetivo 🎯
+  
 O objetivo deste projeto é implementar três operações essenciais: depósito, saque e extrato, para um banco que busca monetizar suas operações.
 
-- Funcionalidades:
+Funcionalidades 🛠️
 
-💰 Depósito: Permite ao cliente do banco depositar fundos em sua conta.
+- Depósito: Permite ao cliente do banco depositar fundos em sua conta.
 
-💸 Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível.
+- Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível.
 
-📜 Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
+- Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
 
-
-- Como Executar:
+Como Executar 📝
 
 1. Certifique-se de ter o Python instalado em sua máquina.
 
@@ -26,9 +26,19 @@ O objetivo deste projeto é implementar três operações essenciais: depósito,
 
 4. Execute o arquivo principal criando um sistema bancário com python.py em seu terminal ou IDE Python.
 
-- Contribuição:
+Como Contribuir 🤝
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões de melhorias, relatar problemas ou adicionar novas funcionalidades através de pull requests.
+Se deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do repositório.
+ 
+3. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+ 
+5. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+  
+7. Push para a branch (git push origin feature/nova-feature).
+  
+9. Crie um novo Pull Request.
 
 📋 README do Projeto
 
