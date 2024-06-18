@@ -4,7 +4,7 @@ Bem-vindo ao projeto de Modelagem do Sistema Bancário em POO com Python! Neste 
 
 🎯 Objetivo 
 
-O objetivo deste desafio é utilizar a Programação Orientada a Objetos (POO) para criar um sistema bancário mais estruturado e eficiente. Vamos re-implementar funcionalidades essenciais do sistema bancário utilizando classes e objetos.
+O objetivo deste projeto é utilizar a Programação Orientada a Objetos (POO) para criar um sistema bancário mais estruturado e eficiente. Vamos re-implementar funcionalidades essenciais do sistema bancário utilizando classes e objetos.
 
 🛠️ Funcionalidades 
 
