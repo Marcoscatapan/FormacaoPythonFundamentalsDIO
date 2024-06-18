@@ -1,34 +1,51 @@
-# 🎓FORMAÇÃO PYTHON DEVELOPER DIO 
+# 3️⃣ Modelando o Sistema Bancário em POO com Python
 
-Bem-vindo ao repositório da Formação Python Developer!
+Bem-vindo ao desafio de Modelagem do Sistema Bancário em POO com Python! Neste desafio, vamos atualizar a implementação do sistema bancário para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código seguirá um modelo de classes UML também disponível nesse repositório.
 
-Este repositório destina-se aos projetos do curso Formação Python Developer da DIO, armazenando todos os desafios de projetos propostos pelo curso.
+🎯 Objetivo 
 
-📂 Como navegar neste repositório
+O objetivo deste desafio é utilizar a Programação Orientada a Objetos (POO) para criar um sistema bancário mais estruturado e eficiente. Vamos re-implementar funcionalidades essenciais do sistema bancário utilizando classes e objetos.
 
-Cada projeto ou desafio está organizado em seu próprio diretório.
+🛠️ Funcionalidades 
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts Python, documentos de especificação e qualquer outra informação relevante.
+- Depósito: Permite ao cliente do banco depositar fundos em sua conta.
+ 
+- Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível.
 
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
+- Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
 
-🛠️ Projetos disponíveis
+- Nova Conta: Permite ao banco criar uma nova conta para um cliente.
 
-Projeto 1: Criando um sistema bancário com python.
+- Listar Contas: Mostra todas as contas registradas no banco.
 
-Projeto 2: Otimizando o sistema bancário com funções python.
+- Novo Usuário: Gera um novo usuário com informações básicas.
 
-Projeto 3: modelando o sistema bancario em POO com python.
+📝 Como Executar 
 
-🤝 Contribuindo
+1. Certifique-se de ter o Python instalado em sua máquina.
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+2. Clone este repositório para o seu ambiente local.
 
-📧 Contato
+3. Navegue até o diretório do projeto.
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com Python, sinta-se à vontade para entrar em contato.
+4. Execute o arquivo principal (modelando o sistema bancario em POO com python.py) em seu terminal ou IDE Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
+🤝 Como Contribuir 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+Se deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do repositório.
+
+2. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+
+3. Implemente suas melhorias e novas funcionalidades utilizando funções em Python.
+
+4. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+
+5. Push para a branch (git push origin feature/nova-feature).
+
+6. Crie um novo Pull Request.
+
+📋 Síntese do Projeto
+
+Este projeto fornece uma visão geral de otimização de um sistema bancário em Python, adicionando novas funcionalidades como criar uma nova conta, listar todas as contas e gerar um novo usuário, todas implementadas utilizando funções em Python. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
