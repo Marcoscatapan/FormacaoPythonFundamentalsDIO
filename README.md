@@ -28,7 +28,7 @@ O objetivo deste projeto é otimizar o sistema bancário básico, adicionando no
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal otimizando o sistema bancario com funções python.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal (otimizando o sistema bancario com funções python.py) em seu terminal ou IDE Python.
 
 🤝 Como Contribuir 
 
