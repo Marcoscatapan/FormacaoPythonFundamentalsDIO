@@ -19,6 +19,8 @@ Projeto 1: Criando um sistema bancário com python.
 
 Projeto 2: Otimizando o sistema bancário com funções python.
 
+Projeto 3: modelando o sistema bancario em POO com python.
+
 🤝 Contribuindo
 
 Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
