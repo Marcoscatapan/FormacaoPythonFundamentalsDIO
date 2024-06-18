@@ -22,7 +22,7 @@ O objetivo deste projeto é implementar um sistema bancário funcional em Python
 
 3. Navegue até o diretório do projeto.
 
-4. Execute o arquivo principal criando um sistema bancário com python.py em seu terminal ou IDE Python.
+4. Execute o arquivo principal (criando um sistema bancário com python.py) em seu terminal ou IDE Python.
 
 🤝 Como Contribuir 
 
