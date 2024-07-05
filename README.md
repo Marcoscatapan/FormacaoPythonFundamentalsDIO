@@ -1,34 +1,68 @@
-# 🎓FORMAÇÃO PYTHON FUNDAMENTALS DIO 
+# 4️⃣Inserindo Decoradores, Geradores e Iteradores no Sistema Bancário
 
-Bem-vindo ao repositório da Formação Python Developer!
+Neste projeto, vamos atualizar a implementação do sistema bancário para incluir decoradores, geradores e iteradores, proporcionando um sistema mais robusto e eficiente.
 
-Este repositório destina-se aos projetos do curso Formação Python Developer da DIO, armazenando todos os desafios de projetos propostos pelo curso.
+🎯 Objetivo
 
-📂 Como navegar neste repositório
+O objetivo deste projeto é utilizar a Programação Orientada a Objetos (POO) para criar um sistema bancário estruturado, integrando decoradores, geradores e iteradores para funcionalidades avançadas.
 
-Cada projeto ou desafio está organizado em seu próprio diretório.
+🛠️ Funcionalidades
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts Python, documentos de especificação e qualquer outra informação relevante.
+- Depósito: Permite ao cliente do banco depositar fundos em sua conta.
+ 
+- Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível.
 
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
+- Extrato: Fornece ao cliente do banco um extrato de suas transações recentes.
 
-🛠️ Projetos disponíveis
+- Nova Conta: Permite ao banco criar uma nova conta para um cliente.
 
-Projeto 1: Criando um sistema bancário com python.
+- Listar Contas: Mostra todas as contas registradas no banco.
 
-Projeto 2: Otimizando o sistema bancário com funções python.
+- Novo Usuário: Gera um novo usuário com informações básicas.
 
-Projeto 3: modelando o sistema bancario em POO com python.
+📚 Implementações Específicas
 
-🤝 Contribuindo
+- Decorador de Log:
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+Implementação de um decorador que seja aplicado a todas as funções de transações (depósito, saque, criação de conta, etc).
+Esse decorador deve registrar (printar) a data e hora de cada transação, bem como o tipo de transação.
 
-📧 Contato
+- Gerador de Relatórios:
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com Python, sinta-se à vontade para entrar em contato.
+Criação de um gerador que permita iterar sobre as transações de uma conta e retorne, uma a uma, as transações que foram realizadas.
+Esse gerador deve também ter uma forma de filtrar as transações baseado em seu tipo (por exemplo, apenas saques ou apenas depósitos).
+Iterador Personalizado:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
+- Iterador:
+  
+Implementação de um iterador personalizado ContaIterador que permita iterar sobre todas as contas do banco, retornando informações básicas de cada conta (número, saldo atual, etc).
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+📝 Como Executar 
+
+1. Certifique-se de ter o Python instalado em sua máquina.
+
+2. Clone este repositório para o seu ambiente local.
+
+3. Navegue até o diretório do projeto.
+
+4. Execute o arquivo principal (Implementando gerador iterador e decorador no sistema bancário.py) em seu terminal ou IDE Python.
+
+🤝 Como Contribuir 
+
+Se deseja contribuir para este projeto, siga estas etapas:
+
+1. Faça um fork do repositório.
+
+2. Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+
+3. Implemente suas melhorias e novas funcionalidades utilizando funções em Python.
+
+4. Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+
+5. Push para a branch (git push origin feature/nova-feature).
+
+6. Crie um novo Pull Request.
+
+📋 Síntese do Projeto
+
+Este projeto visa a otimização do sistema bancário em Python, adicionando um decorador de log, um gerador de relatório e um iterador personalizado. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
