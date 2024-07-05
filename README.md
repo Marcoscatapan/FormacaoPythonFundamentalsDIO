@@ -1,4 +1,4 @@
-# 🎓FORMAÇÃO PYTHON DEVELOPER DIO 
+# 🎓FORMAÇÃO PYTHON FUNDAMENTALS DIO 
 
 Bem-vindo ao repositório da Formação Python Developer!
 
