@@ -1,38 +1,59 @@
-# 🎓FORMAÇÃO PYTHON FUNDAMENTALS DIO 
+# 5️⃣ Lidando com Data, Hora e Fuso Horário no Sistema Bancário Python
 
-Bem-vindo ao repositório da Formação Python Developer!
+Neste projeto, vamos atualizar a implementação do sistema bancário modificando o limite de transações diárias, e adicionando a inserção de data e hora de todas as transações no extrato.
 
-Este repositório destina-se aos projetos do curso Formação Python Developer da DIO, armazenando todos os desafios de projetos propostos pelo curso.
+🎯 Objetivo
 
-📂 Como navegar neste repositório
+O objetivo deste projeto é utilizar a Programação Orientada a Objetos (POO) para criar um sistema bancário estruturado, integrando data e hora para cada operação efetuada.
 
-Cada projeto ou desafio está organizado em seu próprio diretório.
+🛠️ Funcionalidades
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts Python, documentos de especificação e qualquer outra informação relevante.
+Depósito: Permite ao cliente do banco depositar fundos em sua conta.
 
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
+Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível e respeitando o limite de transações diárias.
 
-🛠️ Projetos disponíveis
+Extrato: Fornece ao cliente do banco um extrato de suas transações recentes, incluindo a data e a hora de cada transação.
 
-Projeto 1: Criando um sistema bancário com python.
+Nova Conta: Permite ao banco criar uma nova conta para um cliente.
 
-Projeto 2: Otimizando o sistema bancário com funções python.
+Listar Contas: Mostra todas as contas registradas no banco.
 
-Projeto 3: modelando o sistema bancario em POO com python.
+Novo Usuário: Gera um novo usuário com informações básicas.
 
-Projeto 4: Inserindo Decoradores, Geradores e Iteradores no Sistema Bancário.
+📚 Implementações Específicas
 
-Projeto 5: Lidando com Data, Hora e Fuso Horário no Sistema Bancário Python.
+Limite de Transações Diárias:
+Modificação no sistema para incluir um limite de transações diárias por cliente, melhorando a segurança e controle das operações.
 
-🤝 Contribuindo
+Data e Hora no Extrato:
+Adição de data e hora em todas as transações exibidas no extrato, proporcionando mais transparência e controle para os clientes.
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+📝 Como Executar
 
-📧 Contato
+Certifique-se de ter o Python instalado em sua máquina.
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com Python, sinta-se à vontade para entrar em contato.
+Clone este repositório para o seu ambiente local.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
+Navegue até o diretório do projeto.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+Execute o arquivo principal (Lidando com Data, Hora e Fuso Horário no Sistema Bancário Python.py) em seu terminal ou IDE Python.
+
+🤝 Como Contribuir
+
+Se deseja contribuir para este projeto, siga estas etapas:
+
+Faça um fork do repositório.
+
+Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+
+Implemente suas melhorias e novas funcionalidades utilizando funções em Python.
+
+Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+
+Push para a branch (git push origin feature/nova-feature).
+
+Crie um novo Pull Request.
+
+📋 Síntese do Projeto
+
+Este projeto visa a otimização do sistema bancário em Python, adicionando um novo limite de transações diárias e a inserção de data e hora em todas as transações no extrato. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
