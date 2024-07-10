@@ -25,6 +25,8 @@ Projeto 4: Inserindo Decoradores, Geradores e Iteradores no Sistema Bancário.
 
 Projeto 5: Lidando com Data, Hora e Fuso Horário no Sistema Bancário Python.
 
+Projeto 6: Manipulando Arquivos no Sistema bancário em Python
+
 🤝 Contribuindo
 
 Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
