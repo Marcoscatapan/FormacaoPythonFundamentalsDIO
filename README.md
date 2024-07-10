@@ -1,40 +1,73 @@
-# 🎓FORMAÇÃO PYTHON FUNDAMENTALS DIO 
+# 6️⃣ Manipulando Arquivos no Sistema Bancário em Python
 
-Bem-vindo ao repositório da Formação Python Developer!
+Nossa aplicação financeira reconhece a importância de rastrear e auditar as ações dos usuários para garantir a segurança e integridade das operações. Para melhorar essa funcionalidade, decidimos modificar o decorador de log atual, que imprime informações no console, para que ele registre essas informações em um arquivo de log. Isso não apenas facilitará a revisão e análise das operações, mas também permitirá um backup contínuo das atividades.
 
-Este repositório destina-se aos projetos do curso Formação Python Developer da DIO, armazenando todos os desafios de projetos propostos pelo curso.
+🎯 Objetivo
 
-📂 Como navegar neste repositório
+O objetivo deste projeto é implementar um decorador de log que registre detalhes específicos para cada chamada de função no sistema bancário. As informações registradas incluem data e hora atuais, nome da função, argumentos passados e valor retornado pela função, se aplicável. Esses registros serão salvos no arquivo log.txt.
 
-Cada projeto ou desafio está organizado em seu próprio diretório.
+🛠️ Funcionalidades
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts Python, documentos de especificação e qualquer outra informação relevante.
+- Depósito: Permite ao cliente do banco depositar fundos em sua conta.
 
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
+- Saque: Permite ao cliente do banco sacar fundos de sua conta, desde que haja saldo disponível e respeitando o limite de transações diárias.
 
-🛠️ Projetos disponíveis
+- Extrato: Fornece ao cliente do banco um extrato de suas transações recentes, incluindo a data e a hora de cada transação.
 
-Projeto 1: Criando um sistema bancário com python.
+- Nova Conta: Permite ao banco criar uma nova conta para um cliente.
 
-Projeto 2: Otimizando o sistema bancário com funções python.
+- Listar Contas: Mostra todas as contas registradas no banco.
 
-Projeto 3: modelando o sistema bancario em POO com python.
+- Novo Usuário: Gera um novo usuário com informações básicas.
 
-Projeto 4: Inserindo Decoradores, Geradores e Iteradores no Sistema Bancário.
+- Registro Detalhado: Cada operação será registrada com:
 
-Projeto 5: Lidando com Data, Hora e Fuso Horário no Sistema Bancário Python.
+Data e hora da operação.
 
-Projeto 6: Manipulando Arquivos no Sistema bancário em Python
+Nome da função executada.
 
-🤝 Contribuindo
+Argumentos passados para a função.
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+Valor retornado pela função, se houver.
 
-📧 Contato
+- Arquivo de Log log.txt:
 
-Se você tiver alguma dúvida sobre os projetos ou desafios, ou se precisar de ajuda com Python, sinta-se à vontade para entrar em contato.
+Novos registros serão adicionados ao final do arquivo, se ele já existir.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-catapan-b766b1305/)
+Cada entrada de log será formatada em uma nova linha para facilitar a leitura e análise.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_catapan/)
+📚 Implementações Específicas
+
+- Persistência de Dados: Garantir que todas as operações sejam registradas de forma persistente no arquivo log.txt.
+  
+- Facilidade de Revisão: Permitir uma revisão fácil e análise detalhada das operações realizadas pelos usuários do sistema bancário.
+
+📝 Como Executar
+
+Certifique-se de ter o Python instalado em sua máquina.
+
+Clone este repositório para o seu ambiente local.
+
+Navegue até o diretório do projeto.
+
+Execute o arquivo principal (Manipulando Arquivos no Sistema Bancário em Python.py) em seu terminal ou IDE Python.
+
+🤝 Como Contribuir
+
+Se deseja contribuir para este projeto, siga estas etapas:
+
+Faça um fork do repositório.
+
+Crie uma branch para sua nova feature (git checkout -b feature/nova-feature).
+
+Implemente suas melhorias e novas funcionalidades utilizando funções em Python.
+
+Commit suas mudanças (git commit -am 'Adiciona uma nova feature').
+
+Push para a branch (git push origin feature/nova-feature).
+
+Crie um novo Pull Request.
+
+📋 Síntese do Projeto
+
+Este projeto visa fortalecer a segurança e a integridade do sistema bancário Python, adicionando um decorador de log que registra todas as operações em um arquivo log.txt. Essa implementação não apenas simplifica a revisão das atividades realizadas, mas também possibilita análises mais profundas das operações dos usuários, contribuindo significativamente para a transparência e controle do sistema. Para mais detalhes sobre o projeto ou para qualquer dúvida, entre em contato conosco.
